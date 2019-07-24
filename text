@@ -1,0 +1,12 @@
+contentFound(){
+  //users content found
+}
+
+
+for loop(0..n frames)
+1.string[] strArr=  tensorFlow(frame)
+2.if(strArr == userInput){
+  contentFound();
+  return the frame;
+}
+else continue;
